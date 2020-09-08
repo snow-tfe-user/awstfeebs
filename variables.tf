@@ -7,3 +7,5 @@ variable "region" {}
 variable "zone" {
   type = string
 }
+
+variable "size" {}
